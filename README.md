@@ -1,16 +1,11 @@
-# joken_po_flutter
+# Aplicativo Joken Po. :game_die:
 
-A new Flutter project.
+Aplicativo simples desenvolvido no curso de Flutter, para estudos de navegação de tela. 
 
-## Getting Started
+<p align="center">
+     <img width="300" height="633" src="https://user-images.githubusercontent.com/86168060/178811023-94b2a4e7-1d07-472e-85ce-89f91b4f2166.png">
+  <img width="300" height="633" src="https://user-images.githubusercontent.com/86168060/178811011-df73a679-3fb6-4389-9b30-4f7b3ad1412f.png">
+   <img width="300" height="633" src="https://user-images.githubusercontent.com/86168060/178811019-c415de0f-582f-4c42-887f-81d1038d9e97.png">
+</p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

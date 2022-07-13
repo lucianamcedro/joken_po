@@ -1,4 +1,4 @@
-# Aplicativo Joken Po. :game_die:
+# Aplicativo Joken Po. :facepunch::wave::v:
 
 Aplicativo simples desenvolvido no curso de Flutter, para estudos de navegação de tela. 
 
